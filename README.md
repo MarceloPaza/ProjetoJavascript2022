@@ -1,4 +1,4 @@
-# ProjetoJavascript2022
+# ProjetoHTMLJavascript2022
 Aplicativo MediaAluno
 Este aplicativo faz a coleta de dados 
 de um aluno e verifica se aprovado 
